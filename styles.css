@@ -1,0 +1,44 @@
+
+.bg-image{
+    float: right;
+    position: absolute;
+    margin-left: 50%;
+    width: 50%;
+    height: 100%;
+}
+
+.content{
+    position: absolute;
+    width: 40%;
+    color: #fff;
+    text-align:center;
+    margin-top: 120px;
+    margin-left:80px;
+    font-family: 'Khula', sans-serif;
+}
+
+.heading{
+    font-size: 3rem;
+    font-weight: 900;
+}
+
+.subcontent{
+    margin-top: 20px;
+    padding: 3%;
+    width:70%;
+    margin-left: 65px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
+
+.loginpage{
+    position: relative;
+    z-index: 5;
+    float: right;
+    margin-left:100%;
+    text-align: center;
+}
+
+.btn-primary,.btn-login{
+    background-color: #B980F0 !important;
+}
